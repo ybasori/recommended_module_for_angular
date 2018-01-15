@@ -7,3 +7,7 @@ slider carousel: [ngx-carousel](https://github.com/sheikalthaf/ngx-carousel)
 input datetime: [ng2-datetime](https://github.com/nkalinov/ng2-datetime)
 
 input select2: [ng2-select2](https://github.com/NejcZdovc/ng2-select2)
+
+connect to facebook: [ngx-facebook](https://github.com/zyra/ngx-facebook)
+
+Angular-Firbase: [angularfire2](https://github.com/angular/angularfire2)
